@@ -1,0 +1,45 @@
+=============================================
+   📈 STOCK PORTFOLIO TRACKER | CodeAlpha
+=============================================
+  Stock    Company         Price
+  -----------------------------------
+  AAPL     Apple            $180
+  TSLA     Tesla            $250
+  NVDA     Nvidia           $500
+  GOOGL    Google           $140
+  MSFT     Microsoft        $380
+=============================================
+
+  OPTIONS:
+  1 → Add Stock
+  2 → View Portfolio
+  3 → Save & Exit
+
+  Enter choice (1/2/3): 1
+  Enter stock name: AAPL
+  Enter quantity: 5
+  ✅ AAPL x5 added!
+
+  Enter choice (1/2/3): 1
+  Enter stock name: TSLA
+  Enter quantity: 3
+  ✅ TSLA x3 added!
+
+  Enter choice (1/2/3): 2
+
+=============================================
+   💼 YOUR PORTFOLIO SUMMARY
+=============================================
+  Stock  Price    Qty   Total     Share
+  AAPL   $180     5     $900      54.5%
+  TSLA   $250     3     $750      45.5%
+  ----------------------------------------
+  💰 Total Investment: $1650
+  📈 Highest Price Stock: TSLA
+  💹 Most Invested: AAPL
+=============================================
+
+  Enter choice (1/2/3): 3
+  ✅ Portfolio saved to portfolio.csv!
+  Thanks! CodeAlpha Internship
+=============================================
